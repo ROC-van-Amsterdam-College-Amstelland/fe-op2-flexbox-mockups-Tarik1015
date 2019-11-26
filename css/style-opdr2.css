@@ -37,7 +37,7 @@ aside{
 .foto{
     width: 150px;
     height: 150px;
-    margin: 40px;
-
+    margin: 20px;
+    justify-items: left;
 }
 
